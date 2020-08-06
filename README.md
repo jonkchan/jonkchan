@@ -7,10 +7,12 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love board games and trying to recreate them for the internet
 
-### Connect with me:
+### Let's Connect:
 
 [<img align="left" alt="https://www.linkedin.com/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="https://www.mail.google.com/" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/gmail-32-761667.png" />][email]
+[<img align="left" alt="https://stackoverflow.com/" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" />][stackoverflow]
+
 <br />
 
 ### Languages and Tools:
@@ -32,4 +34,5 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jonkchan&show_icons=true&hide_border=true&hide=issues" />
 
 [linkedin]: https://www.linkedin.com/in/jonathan-k-chan/
+[stackoverflow]: https://stackoverflow.com/users/5613056/jon-chan?tab=profile
 [email]: mailto:jonathan.k.chan1@gmail.com
