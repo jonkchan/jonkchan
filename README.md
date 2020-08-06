@@ -3,7 +3,7 @@
 ## I'm a Computer Science Student, Full Stack & Software Developer
 
 - 💻 Currently pursuing new opportunities in software and web development
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🚀 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love board games and trying to recreate them for the internet
 
 ### Let's Connect:
