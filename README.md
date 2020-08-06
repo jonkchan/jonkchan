@@ -1,7 +1,5 @@
 ### **Hi there, I'm Jon 👋**
 
-<br />
-
 ## I'm a Computer Science Student, Full Stack & Software Developer
 
 - 💻 Currently pursuing new opportunities in software and web development
@@ -13,8 +11,6 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.k.chan1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-k-chan/)
 [![LinkedIn](https://img.shields.io/badge/-STACKOVERFLOW-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5613056/jon-chan/)
-
-<br />
 
 ## My Tech Stack:
 
