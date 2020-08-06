@@ -22,7 +22,6 @@
 ![C++](https://img.shields.io/badge/-C++-608BC2?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql)
 
 ### Database:
 
@@ -35,7 +34,8 @@
 ### Design:
 
 ![Adobe Photoshop](http://img.shields.io/badge/-Adode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-![Figma](http://img.shields.io/badge/-Figma-30333c?style=flat-square&logo=figma&logoColor=ffffff)
+![Affinity Photo](http://img.shields.io/badge/-Affinity%20Photo-26C9FF?style=flat-square&logo=affinity-photo&logoColor=ffffff)
+![Figma](http://img.shields.io/badge/-Figma-2F323A?style=flat-square&logo=figma&logoColor=ffffff)
 
 ### Deploy:
 
