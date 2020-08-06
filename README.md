@@ -9,9 +9,9 @@
 
 ### Let's Connect:
 
-[<img align="left" alt="https://www.linkedin.com/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="https://www.mail.google.com/" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/gmail-32-761667.png" />][email]
+[<img align="left" alt="https://www.linkedin.com/" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
 [<img align="left" alt="https://stackoverflow.com/" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" />][stackoverflow]
+[<img align="left" alt="https://www.mail.google.com/" width="22px" src="https://image.flaticon.com/icons/svg/281/281769.svg" />][email]
 
 <br />
 
