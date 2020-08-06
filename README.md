@@ -1,6 +1,6 @@
 ### Hi there, I'm Jon 👋
 
-## I'm a Computer Science Graduate Student, Full Stack & Software Developer
+## I'm a Computer Science Student, Full Stack & Software Developer
 
 - 📖 I’m currently learning everything
 - 💻 I'm currently pursuing new opportunities in software and web development
