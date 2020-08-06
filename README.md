@@ -1,4 +1,4 @@
-### Hi there, I'm Jon 👋
+## Hi there, I'm Jon 👋
 
 ## I'm a Computer Science Student, Full Stack & Software Developer
 
