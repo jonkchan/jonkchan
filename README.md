@@ -12,6 +12,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-k-chan/)
 [![LinkedIn](https://img.shields.io/badge/-STACKOVERFLOW-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5613056/jon-chan/)
 
+## My Tech Stack:
+
 ### Languages:
 
 ![Python](https://img.shields.io/badge/-Python-3675AA?style=flat-square&logo=python&logoColor=ffffff)
