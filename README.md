@@ -16,13 +16,13 @@
 
 ### Languages:
 
-![Python](https://img.shields.io/badge/-Python-7590d9?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-Python-7590d9?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql)
 
 ### Database:
 
