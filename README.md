@@ -5,7 +5,6 @@
 - 📖 I’m currently learning everything
 - 💻 I'm currently pursuing new opportunities in software and web development
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: jonathan.k.chan1@gmail.com
 
 ### Connect with me:
 
