@@ -11,7 +11,7 @@
 
 [<img align="left" alt="https://github.com/" width="22px" src="https://image.flaticon.com/icons/svg/25/25231.svg" />][github]
 [<img align="left" alt="https://www.linkedin.com/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="https://www.mail.google.com/" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/gmail-32-761667.png" />][email]
 <br />
 
 ### Languages and Tools:
@@ -28,3 +28,4 @@
 
 [github]: https://github.com/jonkchan
 [linkedin]: https://www.linkedin.com/in/jonathan-k-chan/
+[email]: mailto:jonathan.k.chan1@gmail.com
