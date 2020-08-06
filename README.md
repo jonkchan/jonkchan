@@ -2,13 +2,13 @@
 
 ## I'm a Computer Science Student, Full Stack & Software Developer
 
-- 📖 I’m currently learning everything
-- 💻 I'm currently pursuing new opportunities in software and web development
+- 📖 Currently learning everything
+- 💻 Currently pursuing new opportunities in software and web development
 - 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love board games and trying to recreate them for the internet
 
 ### Connect with me:
 
-[<img align="left" alt="https://github.com/" width="22px" src="https://image.flaticon.com/icons/svg/25/25231.svg" />][github]
 [<img align="left" alt="https://www.linkedin.com/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="https://www.mail.google.com/" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/gmail-32-761667.png" />][email]
 <br />
@@ -31,6 +31,5 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jonkchan&show_icons=true&hide_border=true&hide=issues" />
 
-[github]: https://github.com/jonkchan
 [linkedin]: https://www.linkedin.com/in/jonathan-k-chan/
 [email]: mailto:jonathan.k.chan1@gmail.com
