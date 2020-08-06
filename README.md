@@ -2,11 +2,9 @@
 
 ## I'm a Computer Science Student, Full Stack & Software Developer
 
-- 📖 Currently learning everything
 - 💻 Currently pursuing new opportunities in software and web development
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love board games and trying to recreate them for the internet
-- 📫 I can be reached with the links below
 
 ### Let's Connect:
 
@@ -34,7 +32,7 @@
 ### Design:
 
 ![Adobe Photoshop](http://img.shields.io/badge/-Adode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-![Affinity Photo](http://img.shields.io/badge/-Affinity%20Photo-26C9FF?style=flat-square&logo=affinity-photo&logoColor=ffffff)
+![Affinity Photo](http://img.shields.io/badge/-Affinity%20Photo-F697FF?style=flat-square&logo=affinity-photo&logoColor=ffffff)
 ![Figma](http://img.shields.io/badge/-Figma-2F323A?style=flat-square&logo=figma&logoColor=ffffff)
 
 ### Deploy:
