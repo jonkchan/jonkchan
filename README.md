@@ -29,7 +29,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jonkchan&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jonkchan&show_icons=true&hide_border=true&hide=issues" />
 
 [github]: https://github.com/jonkchan
 [linkedin]: https://www.linkedin.com/in/jonathan-k-chan/
