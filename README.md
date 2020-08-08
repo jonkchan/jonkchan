@@ -4,7 +4,7 @@
 
 - 💻 Currently pursuing new opportunities in software and web development
 - 🚀 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love board games and trying to recreate them for the internet
+- ⚡ Fun Fact: I love board games and trying to recreate them for the internet
 
 ### Let's Connect:
 
@@ -51,7 +51,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jonkchan&show_icons=true&hide_border=true&hide=issues" />
+<img align="left" alt="jonkchan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jonkchan&show_icons=true&hide_border=true&hide=issues" />
 
 [linkedin]: https://www.linkedin.com/in/jonathan-k-chan/
 [stackoverflow]: https://stackoverflow.com/users/5613056/jon-chan?tab=profile
