@@ -8,9 +8,9 @@
 
 ### Let's Connect:
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.k.chan1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-k-chan/)
-[![LinkedIn](https://img.shields.io/badge/-STACKOVERFLOW-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5613056/jon-chan/)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](email)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin)
+[![Stackoverflow](https://img.shields.io/badge/-STACKOVERFLOW-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](stackoverflow)
 
 ## My Tech Stack:
 
@@ -29,7 +29,7 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-### Database:
+### Databases:
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
