@@ -8,9 +8,9 @@
 
 ### Let's Connect:
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](email)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin)
-[![Stackoverflow](https://img.shields.io/badge/-STACKOVERFLOW-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](stackoverflow)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)][email]
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Stackoverflow](https://img.shields.io/badge/-STACKOVERFLOW-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)][stackoverflow]
 
 ## My Tech Stack:
 
