@@ -1,6 +1,6 @@
 ### **Hi there, I'm Jon 👋**
 
-## I'm a Computer Science Graduate Student, Full Stack Developer & Software Engineer
+## I'm a Computer Science Graduate Student, Full Stack Developer, & Software Engineer
 
 - 💻 Currently pursuing new opportunities in software and web development
 - 🚀 2021 Goals: Contribute more to Open Source projects
