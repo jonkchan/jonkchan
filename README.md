@@ -1,11 +1,5 @@
 ### **Hi there, I'm Jon 👋**
 
-## I'm a Computer Science Graduate Student, Full Stack Developer, & Software Engineer
-
-- 💻 Currently pursuing new opportunities in software and web development
-- 🚀 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun Fact: I love board games and trying to recreate them for the internet
-
 ### Let's Connect:
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)][email]
